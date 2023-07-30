@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/音">
+        <file>合.svg</file>
+        <file>(乙).svg</file>
+        <file>乙.svg</file>
+        <file>(老).svg</file>
+        <file>老.svg</file>
+        <file>下老.svg</file>
+        <file>人合.svg</file>
+        <file>人乙.svg</file>
+        <file>人老.svg</file>
+        <file>下人老.svg</file>
+
+        <file>四.svg</file>
+        <file>(上).svg</file>
+        <file>上.svg</file>
+        <file>(中).svg</file>
+        <file>中.svg</file>
+        <file>(尺).svg</file>
+        <file>尺.svg</file>
+        <file>下尺.svg</file>
+        <file>人四.svg</file>
+        <file>人上.svg</file>
+        <file>仲.svg</file>
+        <file>人尺.svg</file>
+        <file>口上.svg</file>
+        <file>口中.svg</file>
+        <file>口尺.svg</file>
+
+        <file>工.svg</file>
+        <file>(五).svg</file>
+        <file>五.svg</file>
+        <file>(六).svg</file>
+        <file>六.svg</file>
+        <file>(七).svg</file>
+        <file>七.svg</file>
+        <file>八.svg</file>
+        <file>九.svg</file>
+        <file>人工.svg</file>
+        <file>伍.svg</file>
+        <file>人六.svg</file>
+        <file>人七.svg</file>
+        <file>口五.svg</file>
+    </qresource>
+</RCC>
